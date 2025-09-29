@@ -2,3 +2,5 @@ RENCANA BELAJAR LARAVEL
 - Livewire
 - Filament
 - Spatie
+- Tailwindcss
+- AlpineJS
