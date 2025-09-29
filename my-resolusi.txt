@@ -2,3 +2,4 @@ MY RESOLUSI
 - Konsisten dalam belajar programming
 - Menguasai Laravel dalam setahun
 - Menjadi web developer
+- Membuat blog coding
